@@ -45,16 +45,16 @@ html, body {
 .judul h1 {
   font-family:  cursive;
   font-size: 40px !important;
-  color:black;
-  text-shadow: whitesmoke 5px 5px 5px;
-  font-weight:700;
+  color:white;
+  text-shadow: black 5px 5px 5px;
+  font-weight:600;
 }
 .judul h6{
   font-size: 1.5rem;
   font-weight: bold;
   text-decoration: underline;
-  color: black;
-  text-shadow: whitesmoke 5px 5px 5px;
+  color: white;
+  text-shadow: black 7px 7px 7px;
 }
 .for {
   background-color: rgb(255 255 255 / 10%);
@@ -90,8 +90,8 @@ html, body {
 }
 
 .hero a {
-  color:white;
-  background-color: rgb(23, 22, 22);
+  color: black;
+  background-color: white;
   box-shadow: var(--shadow);
   border-radius:12px;
   -webkit-border-radius:12px;
@@ -101,8 +101,8 @@ html, body {
 }
 
 .hero a:hover {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   border-radius: 12px;
   -webkit-border-radius: 12px;
   -moz-border-radius: 12px;
