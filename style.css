@@ -135,7 +135,7 @@ html, body {
 .gallery h2,
 .rsvp h2,
 .gifts h2 {
-  color: white;
+  color: var(--pink);
   font-family: 'Sacramento';
   font-size: 5rem;
   font-weight: bold;
